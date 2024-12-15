@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fake_News/static/css/main.dc4d6ff2.css",
+    "main.js": "/Fake_News/static/js/main.7a37c73e.js",
+    "static/js/453.b2157c12.chunk.js": "/Fake_News/static/js/453.b2157c12.chunk.js",
+    "static/media/loading.gif": "/Fake_News/static/media/loading.c9a4ec0f43c18f809cd9.gif",
+    "index.html": "/Fake_News/index.html",
+    "main.dc4d6ff2.css.map": "/Fake_News/static/css/main.dc4d6ff2.css.map",
+    "main.7a37c73e.js.map": "/Fake_News/static/js/main.7a37c73e.js.map",
+    "453.b2157c12.chunk.js.map": "/Fake_News/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.7a37c73e.js"
+  ]
+}
